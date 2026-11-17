@@ -8,3 +8,5 @@ Homework submissions for DATA226 (SJSU). Each assignment lives in its own folder
 
 Airflow DAG that pulls the past 60 days of weather data from the Open-Meteo API and does a full refresh load into Snowflake.
 
+### Pinecone with Airflow
+
